@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome_ui"/>
+  <parameter name="url" value="https://izzingahd.labo.vn/"/>
+  <listeners>
+    <listener class-name="common.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Run on CHROME UI">
+    <parameter name="browser" value="chrome_ui"/>
+    <classes>
+      <class name="com.IZZI.Admin.ADD_ADDRESS_SUCCESS"/>
+    </classes>
+  </test> <!-- Run on CHROME UI -->
+  <test name="Run on CHROME UI(failed)">
+    <parameter name="browser" value="chrome_ui"/>
+    <classes>
+      <class name="com.IZZI.Admin.ADD_ADDRESS_SUCCESS">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_01_Create_Search_Seclect_Address_Success"/>
+        </methods>
+      </class> <!-- com.IZZI.Admin.ADD_ADDRESS_SUCCESS -->
+    </classes>
+  </test> <!-- Run on CHROME UI(failed) -->
+</suite> <!-- Failed suite [Suite] -->

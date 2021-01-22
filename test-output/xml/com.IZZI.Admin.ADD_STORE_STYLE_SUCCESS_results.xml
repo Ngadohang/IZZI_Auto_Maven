@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on CHROME UI"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.744">
+  <properties />
+  
+  
+            <testcase name="TC_01_Create_Search_Delete_Store_Parent_Success" time="14.744" classname="com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS" />
+      
+</testsuite>
