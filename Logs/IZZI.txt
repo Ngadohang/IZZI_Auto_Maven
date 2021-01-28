@@ -1,0 +1,29 @@
+2021-01-28 18:26:14,075 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 18:26:15,027 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 18:26:15,114 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:15,117 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 18:26:15,878 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:18,686 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 18:26:18,717 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:18,717 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 18:26:23,390 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 18:26:37,598 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 18:26:37,605 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:37,967 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,108 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 18:26:39,143 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,143 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 18:26:39,177 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,213 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,242 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,274 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,307 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,323 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 18:26:39,624 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,624 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 18:26:39,635 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,649 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,661 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,662 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 18:26:44,846 INFO  com.IZZI.User.HappyCase - Check save profile success
+2021-01-28 18:26:49,887 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 

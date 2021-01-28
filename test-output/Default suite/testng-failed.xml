@@ -3,21 +3,18 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS"/>
+      <class name="com.IZZI.User.HappyCase"/>
     </classes>
   </test> <!-- Default test -->
   <test name="Default test(failed)">
     <classes>
-      <class name="com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS">
+      <class name="com.IZZI.User.HappyCase">
         <methods>
-          <include name="Create_Store_Parent_Success"/>
-          <include name="Create_Store_Child_Success"/>
-          <include name="InValid_Classification_Name"/>
-          <include name="Select_One_Item_Then_Delete_Item"/>
-          <include name="Input_Name_Not_Exist_Classification"/>
-          <include name="Select_More_Then_Delete_All_Item"/>
+          <include name="TC_01_Register_Success"/>
+          <include name="TC_02_Login_Success"/>
+          <include name="TC_03_Create_Edit_Profile"/>
         </methods>
-      </class> <!-- com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -->
+      </class> <!-- com.IZZI.User.HappyCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

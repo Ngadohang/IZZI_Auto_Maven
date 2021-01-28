@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]">
   <parameter name="browser" value="chrome_ui"/>
-  <parameter name="url" value="https://izzingahd.labo.vn/"/>
+  <parameter name="url" value="https://baa.izzimember.com/login"/>
   <listeners>
     <listener class-name="common.MethodListener"/>
     <listener class-name="org.uncommons.reportng.HTMLReporter"/>
@@ -11,18 +11,19 @@
   <test name="Run on CHROME UI">
     <parameter name="browser" value="chrome_ui"/>
     <classes>
-      <class name="com.IZZI.Admin.ADD_ADDRESS_SUCCESS"/>
+      <class name="com.IZZI.User.HappyCase"/>
     </classes>
   </test> <!-- Run on CHROME UI -->
   <test name="Run on CHROME UI(failed)">
     <parameter name="browser" value="chrome_ui"/>
     <classes>
-      <class name="com.IZZI.Admin.ADD_ADDRESS_SUCCESS">
+      <class name="com.IZZI.User.HappyCase">
         <methods>
+          <include name="afterClass"/>
           <include name="beforeClass"/>
-          <include name="TC_01_Create_Search_Seclect_Address_Success"/>
+          <include name="TC_03_Create_Edit_Profile"/>
         </methods>
-      </class> <!-- com.IZZI.Admin.ADD_ADDRESS_SUCCESS -->
+      </class> <!-- com.IZZI.User.HappyCase -->
     </classes>
   </test> <!-- Run on CHROME UI(failed) -->
 </suite> <!-- Failed suite [Suite] -->

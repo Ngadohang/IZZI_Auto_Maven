@@ -13,9 +13,9 @@
 		<parameter name="browser" value="chrome_ui" />
 		<!-- <parameter name="registerData" value=".\src\main\java\commonData\registerSuccess.json" />	 -->
 		<classes>
- 			<class name="com.IZZI.Admin.ADD_ADDRESS_SUCCESS"/> 
+<!--  			<class name="com.IZZI.Admin.ADD_ADDRESS_SUCCESS"/>  -->
 <!--  			<class name="com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS"/>  -->
-<!--  			<class name="com.IZZI.Admin.ADD_STORE_SUCCESS"/>  -->
+ 			<class name="com.IZZI.Admin.ADD_STORE_SUCCESS"/> 
 		</classes>
 	</test>
 </suite> 

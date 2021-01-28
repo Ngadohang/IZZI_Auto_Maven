@@ -74,8 +74,8 @@ public class AbstractPageUploadFiles extends AbstractPage {
 		}
 		
 		for (String fileName : filesName) {
-			String[] files = fileName.split("\\.");
-			String FileName = files[0].toLowerCase();
+			String[] files = fileName.split("\\_");
+			String FileName = files[1].toLowerCase();
 			
 			for (i = 0; i < imageValues.size(); i++) {
 				if (!imageValues.get(0).contains(FileName)) {

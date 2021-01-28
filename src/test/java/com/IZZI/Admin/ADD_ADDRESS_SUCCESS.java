@@ -9,8 +9,8 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import PageUIIZZI.LoginElement;
-import PageUIIZZI.StoreElement;
+import PageUI_Admin.LoginPageUI;
+import PageUI_Admin.StoreElement;
 import common.AbstractPage;
 import common.AbstractTest;
 import commonData.DataHelper;
@@ -26,14 +26,14 @@ public class ADD_ADDRESS_SUCCESS extends AbstractTest{
 	public void beforeClass(String browserName, String url) {
 		driver = getDriver(browserName, url);
 		data= data.getData();
-		common.waitForElementVisible(driver, LoginElement.E_MAIL_TEXTBOX);
-		common.senkeyToElement(driver, LoginElement.E_MAIL_TEXTBOX, "dungtho090883@gmail.com");
-		common.waitForElementVisible(driver, LoginElement.MẬT_KHẨU_TEXTBOX);
-		common.senkeyToElement(driver, LoginElement.MẬT_KHẨU_TEXTBOX, "GAVTQT7173");
-		common.waitForElementVisible(driver, LoginElement.ĐĂNG_NHẬP_BUTTON);
-		common.clickToElement(driver, LoginElement.ĐĂNG_NHẬP_BUTTON);
-		common.waitForElementVisible(driver, LoginElement.POPUP_HOME);
-		common.clickToElement(driver, LoginElement.POPUP_HOME);
+		common.waitForElementVisible(driver, LoginPageUI.E_MAIL_TEXTBOX);
+		common.senkeyToElement(driver, LoginPageUI.E_MAIL_TEXTBOX, "dungtho090883@gmail.com");
+		common.waitForElementVisible(driver, LoginPageUI.MẬT_KHẨU_TEXTBOX);
+		common.senkeyToElement(driver, LoginPageUI.MẬT_KHẨU_TEXTBOX, "GAVTQT7173");
+		common.waitForElementVisible(driver, LoginPageUI.ĐĂNG_NHẬP_BUTTON);
+		common.clickToElement(driver, LoginPageUI.ĐĂNG_NHẬP_BUTTON);
+		common.waitForElementVisible(driver, LoginPageUI.POPUP_HOME);
+		common.clickToElement(driver, LoginPageUI.POPUP_HOME);
 		common.scrollToElement(driver, StoreElement.STORE_ITEM_MENU);
 		common.waitForElementVisible(driver, StoreElement.STORE_ITEM_MENU);
 		common.clickToElement(driver, StoreElement.STORE_ITEM_MENU);
@@ -55,8 +55,7 @@ public class ADD_ADDRESS_SUCCESS extends AbstractTest{
 		common.senkeyToElement(driver, StoreElement.ENTER_LOCATION_TEXTBOX, address);
 		common.waitToElementClickable(driver, StoreElement.ADDRESS_SAVE_BUTTON);
 		common.clickElementByJs(driver, StoreElement.ADDRESS_SAVE_BUTTON);
-		verifyEquals( common.getTextElement(driver, StoreElement.LAZY_LOADING_SUCCESS), "Thành công");
-		common.waitForElementInvisible(driver, StoreElement.LAZY_LOADING_SUCCESS);
+		verifyTrue(common.isElementDisplay(driver, StoreElement.SUCCESS_MESSAGER_POPUP));
 		common.waitForElementVisible(driver, StoreElement.ADDRESS_SELECTION);
 		common.senkeyToElement(driver, StoreElement.ADDRESS_SELECTION, address);
 		common.senKeyBoarchToElement(driver, StoreElement.ADDRESS_SELECTION, Keys.ENTER);
@@ -68,7 +67,7 @@ public class ADD_ADDRESS_SUCCESS extends AbstractTest{
 	
 
 	public void TC_02_Empty_Address() {
-	//không tạo được
+			
 	}
 	
 	
@@ -114,6 +113,6 @@ public class ADD_ADDRESS_SUCCESS extends AbstractTest{
 	}
 	@Test
 	public void afterClass() {
-		driver.quit();
+		//driver.quit();
 	}
 }

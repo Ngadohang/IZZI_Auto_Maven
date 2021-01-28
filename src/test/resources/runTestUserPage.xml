@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<parameter name="url" value="https://baa.izzimember.com/login" />
+	<listeners>
+		<listener class-name="common.MethodListener" />
+	    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> 
+<!-- 		<listener class-name="reportConfig.ExtentTestListener"/>  -->
+<!-- 		<listener class-name="common.ReportNGListener"/> -->
+<!-- 		<listener class-name="retryConfig.RetryListener"/> -->
+	</listeners>
+	<test name="Run on CHROME UI">
+		<parameter name="browser" value="chrome_ui" />
+		<!-- <parameter name="registerData" value=".\src\main\java\commonData\registerSuccess.json" />	 -->
+		<classes>
+ 			<class name="com.IZZI.User.HappyCase"/> 
+ 			
+		</classes>
+	</test>
+</suite> 

@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Suite">
-                    <span>D:\automation\workspace\MAVEN-IZZI-COM\src\test\resources\runTestCase.xml</span>
+                    <span>D:\automation\workspace\MAVEN-IZZI-COM\src\test\resources\runTestUserPage.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods, 1 failed,   1 passed</span>
+                    <span class="method-stats">3 methods, 1 failed,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -102,7 +102,7 @@
                     <div class="method-list-content failed suite-Suite">
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.IZZI.Admin.ADD_ADDRESS_SUCCESS" hash-for-method="TC_01_Create_Search_Seclect_Address_Success">TC_01_Create_Search_Seclect_Address_Success</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.IZZI.User.HappyCase" hash-for-method="TC_03_Create_Edit_Profile">TC_03_Create_Edit_Profile</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Suite -->
@@ -116,7 +116,12 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.IZZI.Admin.ADD_ADDRESS_SUCCESS" hash-for-method="afterClass">afterClass</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.IZZI.User.HappyCase" hash-for-method="TC_01_Register_Success">TC_01_Register_Success</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.IZZI.User.HappyCase" hash-for-method="TC_02_Login_Success">TC_02_Login_Success</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -134,23 +139,29 @@
           <div class="suite-Suite-class-failed">
             <div class="main-panel-header rounded-window-top">
               <img src="failed.png"/>
-              <span class="class-name">com.IZZI.Admin.ADD_ADDRESS_SUCCESS</span>
+              <span class="class-name">com.IZZI.User.HappyCase</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TC_01_Create_Search_Seclect_Address_Success">
-                  </a> <!-- TC_01_Create_Search_Seclect_Address_Success -->
-                  <span class="method-name">TC_01_Create_Search_Seclect_Address_Success</span>
-                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;Toastify__toast-body&apos;]&quot;}
+                  <a name="TC_03_Create_Edit_Profile">
+                  </a> <!-- TC_03_Create_Edit_Profile -->
+                  <span class="method-name">TC_03_Create_Edit_Profile</span>
+                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()=&apos;OK&apos;] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at common.AbstractPageOne.waitToElementClickable(AbstractPageOne.java:641)
+	at pageObjectIZZI.DetailProfilePageObject.clickToOkButton(DetailProfilePageObject.java:164)
+	at com.IZZI.User.HappyCase.TC_03_Create_Edit_Profile(HappyCase.java:122)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//button[text()=&apos;OK&apos;]&quot;}
   (Session info: chrome=87.0.4280.141)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;PHAMHANH-PC&apos;, ip: &apos;192.168.1.10&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_271&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\PHAMHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: f05441f91817cc1cf7b218265e2efff0
-*** Element info: {Using=xpath, value=//div[@class=&apos;Toastify__toast-body&apos;]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\PHAMHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57629}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3f3333b2f6df519617b36de41c065858
+*** Element info: {Using=xpath, value=//button[text()=&apos;OK&apos;]}
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
@@ -161,9 +172,12 @@ Session ID: f05441f91817cc1cf7b218265e2efff0
 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
 	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at common.AbstractPage.getElementByXpath(AbstractPage.java:136)
-	at common.AbstractPage.getTextElement(AbstractPage.java:319)
-	at com.IZZI.Admin.ADD_ADDRESS_SUCCESS.TC_01_Create_Search_Seclect_Address_Success(ADD_ADDRESS_SUCCESS.java:58)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 27 more
 ... Removed 28 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
@@ -173,14 +187,21 @@ Session ID: f05441f91817cc1cf7b218265e2efff0
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.IZZI.Admin.ADD_ADDRESS_SUCCESS</span>
+              <span class="class-name">com.IZZI.User.HappyCase</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="afterClass">
-                  </a> <!-- afterClass -->
-                  <span class="method-name">afterClass</span>
+                  <a name="TC_01_Register_Success">
+                  </a> <!-- TC_01_Register_Success -->
+                  <span class="method-name">TC_01_Register_Success</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TC_02_Login_Success">
+                  </a> <!-- TC_02_Login_Success -->
+                  <span class="method-name">TC_02_Login_Success</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -188,14 +209,14 @@ Session ID: f05441f91817cc1cf7b218265e2efff0
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">D:\automation\workspace\MAVEN-IZZI-COM\src\test\resources\runTestCase.xml</span>
+            <span class="header-content">D:\automation\workspace\MAVEN-IZZI-COM\src\test\resources\runTestUserPage.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;Suite&quot;&gt;
-  &lt;parameter name=&quot;url&quot; value=&quot;https://izzingahd.labo.vn/&quot;/&gt;
+  &lt;parameter name=&quot;url&quot; value=&quot;https://baa.izzimember.com/login&quot;/&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;common.MethodListener&quot;/&gt;
     &lt;listener class-name=&quot;org.uncommons.reportng.HTMLReporter&quot;/&gt;
@@ -204,18 +225,19 @@ Session ID: f05441f91817cc1cf7b218265e2efff0
   &lt;test name=&quot;Run on CHROME UI&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome_ui&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.IZZI.Admin.ADD_ADDRESS_SUCCESS&quot;/&gt;
+      &lt;class name=&quot;com.IZZI.User.HappyCase&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Run on CHROME UI --&gt;
   &lt;test name=&quot;Run on CHROME UI(failed)&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome_ui&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.IZZI.Admin.ADD_ADDRESS_SUCCESS&quot;&gt;
+      &lt;class name=&quot;com.IZZI.User.HappyCase&quot;&gt;
         &lt;methods&gt;
+          &lt;include name=&quot;afterClass&quot;/&gt;
           &lt;include name=&quot;beforeClass&quot;/&gt;
-          &lt;include name=&quot;TC_01_Create_Search_Seclect_Address_Success&quot;/&gt;
+          &lt;include name=&quot;TC_03_Create_Edit_Profile&quot;/&gt;
         &lt;/methods&gt;
-      &lt;/class&gt; &lt;!-- com.IZZI.Admin.ADD_ADDRESS_SUCCESS --&gt;
+      &lt;/class&gt; &lt;!-- com.IZZI.User.HappyCase --&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Run on CHROME UI(failed) --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -258,20 +280,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TC_01_Create_Search_Seclect_Address_Success')
-data.setCell(0, 2, 'com.IZZI.Admin.ADD_ADDRESS_SUCCESS')
-data.setCell(0, 3, 33553);
+data.setCell(0, 1, 'TC_03_Create_Edit_Profile')
+data.setCell(0, 2, 'com.IZZI.User.HappyCase')
+data.setCell(0, 3, 49249);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'afterClass')
-data.setCell(1, 2, 'com.IZZI.Admin.ADD_ADDRESS_SUCCESS')
-data.setCell(1, 3, 624);
+data.setCell(1, 1, 'TC_01_Register_Success')
+data.setCell(1, 2, 'com.IZZI.User.HappyCase')
+data.setCell(1, 3, 9318);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'TC_02_Login_Success')
+data.setCell(2, 2, 'com.IZZI.User.HappyCase')
+data.setCell(2, 3, 7270);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 34 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -297,21 +323,29 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.IZZI.Admin.ADD_ADDRESS_SUCCESS</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.IZZI.User.HappyCase</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">beforeClass(chrome_ui, https://izzingahd.labo.vn/)</span>
+                <span class="method-name">beforeClass(chrome_ui, https://baa.izzimember.com/login)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">TC_01_Create_Search_Seclect_Address_Success</span>
-                <span class="method-start">20312 ms</span>
+                <span class="method-name">TC_01_Register_Success</span>
+                <span class="method-start">11572 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <span class="method-name">afterClass</span>
-                <span class="method-start">53869 ms</span>
+                <span class="method-name">TC_02_Login_Success</span>
+                <span class="method-start">20891 ms</span>
               </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">TC_03_Create_Edit_Profile</span>
+                <span class="method-start">28162 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">77413 ms</span>
+              </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

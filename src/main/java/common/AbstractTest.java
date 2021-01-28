@@ -22,6 +22,7 @@ public class AbstractTest {
 	protected AbstractTest() {
 		log = LogFactory.getLog(getClass());
 	}
+
 	public WebDriver getDriver(String browser, String url) {
 		if (browser.toLowerCase().contains("chrome_ui")) {
 			WebDriverManager.chromedriver().setup();
@@ -30,7 +31,7 @@ public class AbstractTest {
 			options.setExperimentalOption("useAutomationExtension", false);
 			options.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
 			options.addArguments("--incognito");
-	        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+			capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 			driver = new ChromeDriver(options);
 		}
 		driver.manage().window().maximize();
@@ -43,8 +44,12 @@ public class AbstractTest {
 		String osName = System.getProperty("os.name").toLowerCase();
 		String cmd = "";
 		try {
-			if (driver.toString().contains("win")) {
-				cmd = "taskkill /F /FI \"IMAGENAME eq chromedriver*\"";
+			if (driver.toString().contains("chrome")) {
+				if (osName.contains("window")) {
+					cmd = "taskkill /F /FI \"IMAGENAME eq chromedriver*\"";
+				} else {
+					cmd="";
+				}
 			} else {
 				System.out.println("win hỏng rồi");
 			}
@@ -54,7 +59,7 @@ public class AbstractTest {
 			log.info(e.getMessage());
 		}
 	}
-	
+
 	private boolean checkTrue(boolean condition) {
 		boolean pass = true;
 		try {
@@ -115,5 +120,5 @@ public class AbstractTest {
 	protected boolean verifyEquals(Object actual, Object expected) {
 		return checkEquals(actual, expected);
 	}
-	
+
 }

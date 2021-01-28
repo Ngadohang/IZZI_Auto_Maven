@@ -25,7 +25,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class AbstractPage {
+public class  AbstractPage {
 	protected final Log log;
 	WebDriver driver;
 
@@ -345,6 +345,10 @@ public class AbstractPage {
 
 	public int contElementSize(WebDriver driver, String locator) {
 		return findElementsByXpath(driver, locator).size();
+	}
+	
+	public int contElementSize(WebDriver driver, String locator,String...values) {
+		return findElementsByXpath(driver, locator,values).size();
 	}
 
 	public void checkToCheckBox(WebDriver driver, String locator) {
@@ -826,6 +830,13 @@ public class AbstractPage {
 			status= element.isDisplayed();
 		}
 		return status;
+	}
+	
+	public String getStoreInfoNewOnTable(WebDriver driver,String nameStore, String inforStore) {
+		List<WebElement> elements= findElementsByXpath(driver,"//th[text()='%s']/preceding-sibling::*",inforStore);
+		int index= elements.size()-1;
+		WebElement Element= getElementByXpath(driver, "//td[text()='%s']/following-sibling::td[%s]",nameStore, String.valueOf(index));	
+		return Element.getText();
 	}
 	
 	private WebDriverWait explicitWait;

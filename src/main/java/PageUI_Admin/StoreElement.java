@@ -1,10 +1,10 @@
-package PageUIIZZI;
+package PageUI_Admin;
 
 public class StoreElement {
 	public static final String STORE_ITEM_MENU="//a[contains(.,'Quản lý kho')]//parent::li";
 	public static final String STORE_SUB_ITEM_MENU="//a[contains(.,'Quản lý kho')]//parent::li/ul/li/a[contains(.,'Tạo mới')]/parent::li";
 	public static final String STORE_LABEL_PAGE="//div[@class='page-title-subheading' and contains(.,'Thông tin kho hàng')]/parent::div[contains(.,'Kho hàng')]";
-	public static final String STORE_TITLE="(//div[@class='card-header' and contains(.,'Tạo mới')])[1]";
+	public static final String STORE_TITLE="(//div[@class='card-header' and contains(.,'Tạo mới')])[1]";	
 	public static final String NAME_STORE_TEXTBOX="//label[contains(.,'Tên kho')]/following-sibling::input";
 	public static final String TAGS_TEXTBOX="//label[contains(.,'Tags')]/following-sibling::input";
 	public static final String SKU_TEXTBOX="//label[contains(.,'Sku')]/following-sibling::input";
@@ -30,7 +30,7 @@ public class StoreElement {
 	public static final String SELECT_BUTTON="//div[@class='modal-content']//button[text()='Chọn']";
 	public static final String DYNAMIC_STORE_STYLE="//div[text()='%s']";
 	public static final String IMAGE_SELECT_BUTTON="//div[text()='Ảnh']/following-sibling::*/button";
-	
+	public static final String PARENT_STORE_TEXTBOX="//label[text()='Thuộc kho']/following-sibling::*/div/div/div/div/input";
 	
 	public static final String PARENT_CLASSIFICATION_SELECT="//label[text()='Phân loại cha']/following-sibling::*//input";
 	public static final String CREATE_NEW_CLASSIFY_BUTTON="//div[text()='Phân loại']/div/button[text()='Tạo mới']";
@@ -46,7 +46,6 @@ public class StoreElement {
 	
 	// upload ảnh thành công
 	
-	public static final String LAZY_LOADING_SUCCESS="//div[@class='Toastify__toast-body']";
 	public static final String IMAGE_UPLOAD ="//p[text()='%s']/parent::*/preceding-sibling::*";
 	public static final String SEARCH_TEXTBOX="//input[@name='keyword' and @placeholder='Từ khóa']";
 	public static final String SEARCH_BUTTON="//button[text()='Tìm kiếm']";
@@ -56,9 +55,20 @@ public class StoreElement {
 	public static final String DESCRIPTIOM_ADDRESS_TEXTBOX="//input[@id='description']";
 	public static final String ENTER_LOCATION_TEXTBOX="//input[@placeholder='Enter a location']";
 	public static final String ADDRESS_SAVE_BUTTON="//button[text()='Lưu']";
-	public static final String ADDRESS_SELECTION="//div[text()='Address']/following-sibling::*//div[text()='Select...']/following-sibling::*//input";
-	
+	public static final String ADDRESS_SELECTION="//div[text()='Address']/following-sibling::*//following-sibling::*//input";
 	public static final String ADDRESS_DISPLAY_ON_TEXTBOX="//div[text()='Address']/following-sibling::*//div[contains(.,'%s')]";
 	public static final String SAVE_BUTTON="//span[text()='Lưu']/parent::*";
+	
+	//element at list store
+	public static final String LIST_STORE_SUBMENU_ITEM="//a[text()='Quản lý kho']/following-sibling::*//a[text()='Danh sách']/parent::*";
+	public static final String TITLTE_LIST_STORE_PAGE="//div[text()='Danh sách kho']";
+	public static final String FILTER_BUTTON="//button[text()='Lọc']";
+	public static final String SEARCH_BUTTON_IN_LIST_STORE="//button[text()='Áp dụng']";
+	public static final String SEARCH_TEXTBOX_IN_LIST_STORE="//input[@id='text-search']";
+	public static final String EDIT_STORE_BUTTON="//td[text()='%s']//following-sibling::*//button[@title='Sửa']";
+	
+	//edit store
+	public static final String PARENT_STORE_SELECT="//label[text()='Thuộc kho']/following-sibling::*//div[text()='%s']";
+	
 	
 }

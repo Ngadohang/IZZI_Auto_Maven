@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" total="2" passed="1">
+<testng-results skipped="0" failed="1" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="54502" started-at="2021-01-22T10:52:10Z" finished-at="2021-01-22T10:53:05Z">
+  <suite name="Suite" duration-ms="77420" started-at="2021-01-28T11:26:02Z" finished-at="2021-01-28T11:27:19Z">
     <groups>
     </groups>
-    <test name="Run on CHROME UI" duration-ms="54502" started-at="2021-01-22T10:52:10Z" finished-at="2021-01-22T10:53:05Z">
-      <class name="com.IZZI.Admin.ADD_ADDRESS_SUCCESS">
-        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.IZZI.Admin.ADD_ADDRESS_SUCCESS@4e718207]" name="beforeClass" is-config="true" duration-ms="20308" started-at="2021-01-22T17:52:10Z" finished-at="2021-01-22T17:52:31Z">
+    <test name="Run on CHROME UI" duration-ms="77420" started-at="2021-01-28T11:26:02Z" finished-at="2021-01-28T11:27:19Z">
+      <class name="com.IZZI.User.HappyCase">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.IZZI.User.HappyCase@553a3d88]" name="beforeClass" is-config="true" duration-ms="11570" started-at="2021-01-28T18:26:02Z" finished-at="2021-01-28T18:26:14Z">
           <params>
             <param index="0">
               <value>
@@ -16,53 +16,33 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[https://izzingahd.labo.vn/]]>
+                <![CDATA[https://baa.izzimember.com/login]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="FAIL" signature="TC_01_Create_Search_Seclect_Address_Success()[pri:0, instance:com.IZZI.Admin.ADD_ADDRESS_SUCCESS@4e718207]" name="TC_01_Create_Search_Seclect_Address_Success" duration-ms="33553" started-at="2021-01-22T17:52:31Z" finished-at="2021-01-22T17:53:04Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
+        <test-method status="PASS" signature="TC_01_Register_Success()[pri:0, instance:com.IZZI.User.HappyCase@553a3d88]" name="TC_01_Register_Success" duration-ms="9318" started-at="2021-01-28T18:26:14Z" finished-at="2021-01-28T18:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Register_Success -->
+        <test-method status="PASS" signature="TC_02_Login_Success()[pri:0, instance:com.IZZI.User.HappyCase@553a3d88]" name="TC_02_Login_Success" duration-ms="7270" started-at="2021-01-28T18:26:23Z" finished-at="2021-01-28T18:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Login_Success -->
+        <test-method status="FAIL" signature="TC_03_Create_Edit_Profile()[pri:0, instance:com.IZZI.User.HappyCase@553a3d88]" name="TC_03_Create_Edit_Profile" duration-ms="49249" started-at="2021-01-28T18:26:30Z" finished-at="2021-01-28T18:27:19Z">
+          <exception class="org.openqa.selenium.TimeoutException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='Toastify__toast-body']"}
-  (Session info: chrome=87.0.4280.141)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'PHAMHANH-PC', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\PHAMHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: f05441f91817cc1cf7b218265e2efff0
-*** Element info: {Using=xpath, value=//div[@class='Toastify__toast-body']}]]>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()='OK'] (tried for 30 second(s) with 500 milliseconds interval)]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='Toastify__toast-body']"}
-  (Session info: chrome=87.0.4280.141)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'PHAMHANH-PC', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\PHAMHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: f05441f91817cc1cf7b218265e2efff0
-*** Element info: {Using=xpath, value=//div[@class='Toastify__toast-body']}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at common.AbstractPage.getElementByXpath(AbstractPage.java:136)
-	at common.AbstractPage.getTextElement(AbstractPage.java:319)
-	at com.IZZI.Admin.ADD_ADDRESS_SUCCESS.TC_01_Create_Search_Seclect_Address_Success(ADD_ADDRESS_SUCCESS.java:58)
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()='OK'] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at common.AbstractPageOne.waitToElementClickable(AbstractPageOne.java:641)
+	at pageObjectIZZI.DetailProfilePageObject.clickToOkButton(DetailProfilePageObject.java:164)
+	at com.IZZI.User.HappyCase.TC_03_Create_Edit_Profile(HappyCase.java:122)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -87,17 +67,46 @@ Session ID: f05441f91817cc1cf7b218265e2efff0
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='OK']"}
+  (Session info: chrome=87.0.4280.141)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PHAMHANH-PC', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\PHAMHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57629}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3f3333b2f6df519617b36de41c065858
+*** Element info: {Using=xpath, value=//button[text()='OK']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 27 more
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01_Create_Search_Seclect_Address_Success -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.IZZI.Admin.ADD_ADDRESS_SUCCESS@4e718207]" name="afterClass" duration-ms="624" started-at="2021-01-22T17:53:04Z" finished-at="2021-01-22T17:53:05Z">
+        </test-method> <!-- TC_03_Create_Edit_Profile -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.IZZI.User.HappyCase@553a3d88]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-01-28T18:27:19Z" finished-at="2021-01-28T18:27:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.IZZI.Admin.ADD_ADDRESS_SUCCESS -->
+      </class> <!-- com.IZZI.User.HappyCase -->
     </test> <!-- Run on CHROME UI -->
   </suite> <!-- Suite -->
 </testng-results>

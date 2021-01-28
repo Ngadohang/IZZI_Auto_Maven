@@ -9,8 +9,8 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import PageUIIZZI.LoginElement;
-import PageUIIZZI.StoreElement;
+import PageUI_Admin.LoginPageUI;
+import PageUI_Admin.StoreElement;
 import common.AbstractPage;
 import common.AbstractTest;
 
@@ -24,14 +24,14 @@ public class ADD_STORE_STYLE_SUCCESS extends AbstractTest {
 	public void beforeClass(String browserName, String url) {
 		driver = getDriver(browserName, url);
 		log.info("Vào trang chủ, đăng nhập thành công");
-		common.waitForElementVisible(driver, LoginElement.E_MAIL_TEXTBOX);
-		common.senkeyToElement(driver, LoginElement.E_MAIL_TEXTBOX, "dungtho090883@gmail.com");
-		common.waitForElementVisible(driver, LoginElement.MẬT_KHẨU_TEXTBOX);
-		common.senkeyToElement(driver, LoginElement.MẬT_KHẨU_TEXTBOX, "GAVTQT7173");
-		common.waitForElementVisible(driver, LoginElement.ĐĂNG_NHẬP_BUTTON);
-		common.clickToElement(driver, LoginElement.ĐĂNG_NHẬP_BUTTON);
-		common.waitForElementVisible(driver, LoginElement.POPUP_HOME);
-		common.clickToElement(driver, LoginElement.POPUP_HOME);
+		common.waitForElementVisible(driver, LoginPageUI.E_MAIL_TEXTBOX);
+		common.senkeyToElement(driver, LoginPageUI.E_MAIL_TEXTBOX, "dungtho090883@gmail.com");
+		common.waitForElementVisible(driver, LoginPageUI.MẬT_KHẨU_TEXTBOX);
+		common.senkeyToElement(driver, LoginPageUI.MẬT_KHẨU_TEXTBOX, "GAVTQT7173");
+		common.waitForElementVisible(driver, LoginPageUI.ĐĂNG_NHẬP_BUTTON);
+		common.clickToElement(driver, LoginPageUI.ĐĂNG_NHẬP_BUTTON);
+		common.waitForElementVisible(driver, LoginPageUI.POPUP_HOME);
+		common.clickToElement(driver, LoginPageUI.POPUP_HOME);
 		common.scrollToElement(driver, StoreElement.STORE_ITEM_MENU);
 		common.waitForElementVisible(driver, StoreElement.STORE_ITEM_MENU);
 		common.clickToElement(driver, StoreElement.STORE_ITEM_MENU);

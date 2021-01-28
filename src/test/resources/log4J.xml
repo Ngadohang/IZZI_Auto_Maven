@@ -38,6 +38,12 @@
 		<appender-ref ref="logfile" />
 		<appender-ref ref="file" />
 	</category>
+	<category name="com.IZZI.User">
+		<priority value="all" />
+		<appender-ref ref="console" />
+		<appender-ref ref="logfile" />
+		<appender-ref ref="file" />
+	</category>
 
 	<root>
 		<priority value="warn" />

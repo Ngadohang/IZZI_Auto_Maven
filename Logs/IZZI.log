@@ -1061,3 +1061,1171 @@
 2021-01-22 16:28:44,947 INFO  com.IZZI.Admin.ADD_ADDRESS_SUCCESS - Vào trang ch?, ??ng nh?p thành công
 2021-01-22 16:28:55,909 INFO  com.IZZI.Admin.ADD_ADDRESS_SUCCESS - Click create new address button
 2021-01-22 17:17:00,910 INFO  com.IZZI.Admin.ADD_ADDRESS_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 16:56:01,789 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 16:56:11,039 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-25 16:56:11,725 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-25 16:56:12,737 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-25 16:56:12,792 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 16:56:12,794 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-25 16:56:12,829 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 16:56:12,829 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-25 17:05:36,438 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:05:44,592 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-25 17:05:45,821 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-25 17:05:46,435 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:05:46,438 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-25 17:05:47,806 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-25 17:05:49,001 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:05:50,129 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-25 17:05:54,317 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-25 17:06:24,357 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-25 17:06:24,357 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-25 17:08:12,742 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:08:24,664 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-25 17:08:25,828 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-25 17:08:26,452 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:08:26,454 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-25 17:08:27,699 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-25 17:08:28,964 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:08:30,079 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-25 17:08:34,243 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-25 17:08:45,628 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:08:45,628 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-25 17:08:50,766 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:09:07,340 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:09:18,098 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-25 17:09:19,279 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-25 17:09:19,891 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:09:19,893 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-25 17:09:21,191 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-25 17:09:22,522 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:09:23,658 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-25 17:09:27,817 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-25 17:09:44,981 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:09:44,981 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-25 17:09:50,143 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:10:49,002 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:11:00,468 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-25 17:11:01,644 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-25 17:11:02,269 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:11:02,272 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-25 17:11:03,598 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-25 17:11:04,798 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:11:05,949 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-25 17:11:10,130 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-25 17:11:40,177 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-25 17:11:40,178 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-25 17:18:25,850 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:18:35,046 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-25 17:18:36,280 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-25 17:18:36,909 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:18:36,912 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-25 17:18:38,248 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-25 17:18:39,449 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:18:40,603 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-25 17:18:44,788 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-25 17:18:44,816 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:18:44,816 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-25 17:18:49,948 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:32:57,448 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:33:10,320 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-25 17:33:11,536 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-25 17:33:12,156 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:12,160 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-25 17:33:13,537 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-25 17:33:14,818 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:15,944 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-25 17:33:20,133 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-25 17:33:20,169 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:20,169 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-25 17:33:25,336 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:35,298 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:33:43,574 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-25 17:33:44,255 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-25 17:33:45,251 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-25 17:33:45,308 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:45,308 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-25 17:33:45,345 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:45,345 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-25 17:33:55,519 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-25 17:33:56,091 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:56,092 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-25 17:33:56,185 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-25 17:33:58,656 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:33:59,921 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-25 17:34:01,091 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-25 17:34:01,121 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-25 17:34:01,121 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-25 17:34:06,939 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-25 17:34:07,504 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:34:10,577 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-25 17:36:19,468 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:36:31,019 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-25 17:36:32,219 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-25 17:36:32,835 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:36:32,836 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-25 17:36:34,163 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-25 17:36:35,369 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:36:36,500 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-25 17:36:40,685 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-25 17:36:40,714 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:36:40,715 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-25 17:36:45,889 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:36:55,887 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-25 17:37:04,907 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-25 17:37:05,573 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-25 17:37:06,569 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-25 17:37:06,643 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:37:06,643 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-25 17:37:06,676 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:37:06,676 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-25 17:37:16,755 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-25 17:37:17,328 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:37:17,328 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-25 17:37:17,419 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-25 17:37:18,419 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:37:19,647 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-25 17:37:20,844 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-25 17:37:20,876 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-25 17:37:20,876 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-25 17:37:26,595 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-25 17:37:27,081 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-25 17:37:30,158 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 09:02:23,816 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:02:35,698 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-26 09:02:36,969 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-26 09:02:37,552 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:02:37,553 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-26 09:02:38,856 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-26 09:02:40,016 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:02:41,135 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-26 09:02:45,303 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-26 09:02:45,332 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:02:45,332 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-26 09:02:50,464 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:03:00,487 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:03:11,241 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 09:03:11,864 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 09:03:12,808 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 09:03:12,849 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:03:12,849 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 09:03:12,877 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:03:12,878 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 09:03:22,465 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 09:03:23,040 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:03:23,040 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 09:03:23,134 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 09:03:23,352 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:03:24,527 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 09:03:25,661 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 09:03:25,691 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 09:03:25,691 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 09:03:31,402 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 09:03:32,752 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:03:35,775 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 09:18:54,532 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:19:05,969 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-26 09:19:07,160 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-26 09:19:07,781 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:07,783 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-26 09:19:09,144 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-26 09:19:10,348 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:11,504 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-26 09:19:15,687 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-26 09:19:15,720 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:15,720 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-26 09:19:20,856 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:30,913 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:19:39,617 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 09:19:40,264 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 09:19:41,237 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 09:19:41,289 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:41,289 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 09:19:41,320 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:41,320 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 09:19:51,497 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 09:19:52,099 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:52,099 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 09:19:52,212 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 09:19:52,990 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:19:54,229 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 09:19:55,425 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 09:19:55,453 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 09:19:55,453 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 09:20:01,187 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 09:20:04,355 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 09:31:49,743 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:32:00,994 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-26 09:32:02,186 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-26 09:32:02,792 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:02,794 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-26 09:32:04,096 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-26 09:32:05,300 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:06,431 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-26 09:32:10,655 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-26 09:32:10,686 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:10,686 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-26 09:32:15,817 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:25,815 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 09:32:34,417 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 09:32:35,077 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 09:32:36,094 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 09:32:36,174 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:36,174 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 09:32:36,222 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:36,222 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 09:32:46,311 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 09:32:46,926 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:46,926 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 09:32:47,030 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 09:32:52,216 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:32:53,471 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 09:32:54,642 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 09:32:54,670 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 09:32:54,670 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 09:41:42,813 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:41:54,531 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-26 09:41:55,755 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-26 09:41:56,361 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:41:56,363 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-26 09:41:57,728 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-26 09:41:58,932 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:42:00,054 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-26 09:42:04,211 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-26 09:42:04,248 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:42:04,248 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-26 09:42:09,413 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:42:21,177 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 09:42:28,334 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 09:42:29,028 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 09:42:30,049 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 09:42:30,097 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:42:30,097 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 09:42:30,131 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:42:30,131 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 09:42:40,463 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 09:42:41,056 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:42:41,057 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 09:42:41,154 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 09:42:50,847 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:42:52,102 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 09:42:53,268 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 09:42:53,294 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 09:42:53,295 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 09:43:04,063 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 09:43:04,148 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:43:07,249 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 09:50:20,982 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:50:32,977 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-26 09:50:34,157 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-26 09:50:34,775 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:50:34,776 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-26 09:50:36,101 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-26 09:50:37,290 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:50:38,458 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-26 09:50:42,659 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-26 09:50:42,700 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:50:42,700 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-26 09:50:47,836 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:50:57,847 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 09:51:08,486 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 09:51:09,151 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 09:51:10,145 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 09:51:10,187 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:51:10,187 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 09:51:10,217 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:51:10,217 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 09:51:20,352 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 09:51:20,943 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:51:20,943 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 09:51:21,042 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 09:51:23,099 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:51:24,307 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 09:51:25,520 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 09:51:25,560 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 09:51:25,561 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 09:56:59,698 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Vào trang ch?, ??ng nh?p thành công
+2021-01-26 09:57:11,513 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Create parent store in creat new store
+2021-01-26 09:57:12,711 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check popup create new classification is displayed
+2021-01-26 09:57:13,325 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:57:13,326 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - input name classification
+2021-01-26 09:57:14,686 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check success message is display
+2021-01-26 09:57:15,922 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:57:17,028 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Search parent store
+2021-01-26 09:57:21,256 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Check parent store is display
+2021-01-26 09:57:21,301 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:57:21,301 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS - Delete parent store
+2021-01-26 09:57:26,472 INFO  com.IZZI.Admin.ADD_STORE_STYLE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:57:36,724 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 09:57:46,877 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 09:57:47,536 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 09:57:48,516 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 09:57:48,569 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:57:48,569 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 09:57:48,604 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:57:48,604 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 09:57:58,699 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 09:57:59,309 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:57:59,309 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 09:57:59,437 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 09:58:02,230 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 09:58:03,466 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 09:58:04,643 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 09:58:04,673 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 09:58:04,674 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 10:02:38,464 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 10:02:55,728 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 10:02:56,353 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 10:02:57,355 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 10:02:57,402 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:02:57,404 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 10:02:57,435 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:02:57,435 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 10:03:07,705 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 10:03:08,312 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:03:08,312 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 10:03:08,413 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 10:03:14,062 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:03:15,271 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 10:03:16,450 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 10:03:16,481 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 10:03:16,482 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 10:03:27,224 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 10:03:27,291 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:03:30,383 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 10:50:53,695 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 10:51:04,509 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 10:51:05,175 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 10:51:06,184 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 10:51:06,231 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:51:06,232 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 10:51:06,265 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:51:06,265 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 10:51:16,548 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 10:51:17,137 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:51:17,137 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 10:51:17,237 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 10:51:22,702 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:51:23,962 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 10:51:25,123 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 10:51:25,147 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 10:51:25,147 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 10:51:35,877 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 10:51:35,973 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 10:51:39,049 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 10:52:00,113 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create a new store success message
+2021-01-26 11:06:56,153 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 11:07:02,360 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 11:07:03,029 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 11:07:04,013 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 11:07:04,061 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:07:04,063 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 11:07:04,094 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:07:04,094 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 11:07:14,186 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 11:07:14,776 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:07:14,776 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 11:07:14,946 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 11:07:22,101 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:07:23,362 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 11:07:24,581 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 11:07:24,612 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 11:07:24,613 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 11:07:35,370 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 11:07:35,467 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:07:56,047 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create a new store success message
+2021-01-26 11:08:03,881 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 11:14:32,257 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 11:14:46,835 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 11:14:47,493 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 11:14:48,494 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 11:14:48,550 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:14:48,552 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 11:14:48,592 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:14:48,592 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 11:14:58,660 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 11:14:59,261 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:14:59,261 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 11:14:59,515 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 11:14:59,639 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:15:00,869 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 11:15:02,058 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 11:15:02,086 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 11:15:02,087 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 11:15:12,805 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 11:15:12,894 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:15:20,514 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create a new store success message
+2021-01-26 11:15:50,547 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 11:15:51,179 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 11:15:52,027 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 11:15:52,050 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:15:52,051 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 11:15:52,080 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:15:52,080 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 11:16:02,982 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 11:16:03,591 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:16:03,591 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 11:16:03,705 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 11:16:07,864 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:16:09,112 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 11:16:10,310 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 11:16:10,345 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 11:16:10,346 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 11:16:20,974 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 11:16:21,078 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:16:24,142 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 11:16:26,948 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create a new store success message
+2021-01-26 11:18:20,950 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 11:18:28,794 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 11:18:29,509 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 11:18:30,488 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 11:18:30,548 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:18:30,550 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 11:18:30,586 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:18:30,587 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 11:18:40,761 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 11:18:41,370 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:18:41,370 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 11:18:41,461 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 11:18:43,495 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:18:44,752 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 11:18:45,932 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 11:18:45,961 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 11:18:45,961 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 11:18:56,729 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 11:18:56,807 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:19:04,467 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create a new store success message
+2021-01-26 11:19:34,514 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 11:19:35,184 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 11:19:36,068 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 11:19:36,093 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:19:36,093 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 11:19:36,117 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:19:36,118 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 11:19:46,974 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 11:19:47,576 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:19:47,576 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 11:19:47,662 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 11:19:51,934 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:19:53,182 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 11:19:54,360 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 11:19:54,391 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 11:19:54,391 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 11:20:05,106 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 11:20:05,191 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 11:20:08,276 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select address customer
+2021-01-26 11:20:11,101 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create a new store success message
+2021-01-26 13:33:56,354 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Login HomePage
+2021-01-26 13:34:09,326 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to item menu store manageration
+2021-01-26 13:34:10,000 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Click to sub item 'create new store'
+2021-01-26 13:34:11,024 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create new store screen is displayed
+2021-01-26 13:34:11,068 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 13:34:11,071 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title create new store is display
+2021-01-26 13:34:11,101 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 13:34:11,101 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Input need data
+2021-01-26 13:34:21,182 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check popup upload ?nh display
+2021-01-26 13:34:21,780 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 13:34:21,780 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select image represent
+2021-01-26 13:34:21,872 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image display on tab library
+2021-01-26 13:34:22,582 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 13:34:23,818 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - select more image on library
+2021-01-26 13:34:24,990 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check title on tab image
+2021-01-26 13:34:25,015 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- FAILED -------------------------- 
+2021-01-26 13:34:25,016 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check upload file image success on tab image
+2021-01-26 13:34:35,747 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - check image uploaded is displayed
+2021-01-26 13:34:35,821 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS -  -------------------------- PASSED -------------------------- 
+2021-01-26 13:34:43,553 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - Check create a new store success message
+2021-01-26 13:35:13,632 INFO  com.IZZI.Admin.ADD_STORE_SUCCESS - 
+2021-01-28 11:15:37,606 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:15:38,639 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:15:38,742 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:15:38,743 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:15:39,939 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:15:42,817 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:15:42,846 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:15:42,846 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:15:47,520 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:15:54,901 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:15:55,671 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:15:55,676 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:16:25,722 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:16:26,583 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:16:26,583 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:16:26,585 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:16:26,585 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:16:26,585 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:16:26,585 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:16:26,585 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:16:26,585 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:16:49,156 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:16:50,142 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:16:50,238 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:16:50,240 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:16:51,425 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:16:54,381 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:16:54,410 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:16:54,410 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:16:59,123 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:17:07,509 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:17:08,444 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:17:08,453 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:17:38,500 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:17:39,428 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:17:39,428 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:17:39,430 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:17:39,431 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:17:39,431 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:17:39,431 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:17:39,431 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:17:39,431 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:19:30,112 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:19:31,046 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:19:31,137 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:19:31,139 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:19:32,348 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:19:35,173 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:19:35,201 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:19:35,201 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:19:39,950 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:19:48,517 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:19:49,338 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:19:49,345 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:20:19,399 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:20:20,258 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:20:20,258 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:20:20,260 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:20:20,260 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:20:20,260 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:20:20,260 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:20:20,260 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:20:20,260 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:21:44,159 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:21:45,185 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:21:45,275 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:21:45,276 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:21:46,470 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:21:49,410 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:21:49,440 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:21:49,440 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:21:54,131 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:22:24,215 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:22:24,222 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:22:25,907 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:22:25,924 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:22:25,925 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:22:25,925 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:22:25,925 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:22:25,925 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:22:25,925 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:22:45,187 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:22:46,311 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:22:46,399 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:22:46,401 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:22:47,593 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:22:50,485 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:22:50,514 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:22:50,515 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:22:55,239 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:23:02,520 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:23:03,411 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:23:03,431 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:23:33,468 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:23:34,431 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:23:34,431 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:23:34,433 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:23:34,433 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:23:34,433 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:23:34,433 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:23:34,433 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:23:34,433 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:23:54,433 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:23:55,492 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:23:55,582 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:23:55,583 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:23:56,773 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:23:59,649 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:23:59,679 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:23:59,679 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:24:04,401 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:24:20,078 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:24:21,158 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:24:21,165 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:24:51,244 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:24:52,402 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:24:52,403 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:24:52,405 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:24:52,405 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:24:52,405 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:24:52,405 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:24:52,405 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:24:52,405 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:26:24,452 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:26:25,424 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:26:25,524 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:26:25,526 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:26:26,712 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:26:29,469 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:26:29,496 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:26:29,496 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:26:34,136 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:26:42,085 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:26:42,952 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:26:42,961 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:27:13,023 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:27:13,951 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:27:13,951 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:27:13,953 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:27:13,953 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:27:13,953 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:27:13,953 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:27:13,953 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:27:13,953 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:29:40,512 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:29:41,552 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:29:41,641 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:29:41,643 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:29:42,807 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:29:45,667 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:29:45,700 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:29:45,700 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:29:50,419 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:29:58,832 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:29:59,576 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:29:59,599 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:30:29,659 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:30:30,546 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:30:30,546 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:30:30,549 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:30:30,550 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:30:30,550 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:30:30,550 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:30:30,550 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:30:30,550 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:30:50,524 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:30:51,531 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:30:51,619 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:30:51,621 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:30:52,804 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:30:55,517 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:30:55,548 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:30:55,548 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:31:00,244 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:31:08,195 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:31:08,974 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 11:31:08,993 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 11:31:39,078 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:31:39,940 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:31:39,940 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:31:39,945 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:31:39,945 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:31:39,945 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:31:39,945 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:31:39,945 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:31:39,945 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:36:05,022 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:36:06,139 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:36:06,188 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:36:06,189 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:36:07,379 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:36:10,282 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:36:10,321 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:36:10,321 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:36:15,045 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:36:22,480 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 11:36:23,258 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:36:24,057 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:36:24,057 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:36:24,060 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:36:24,060 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:36:24,060 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:36:24,060 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:36:24,060 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:36:24,060 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:42:18,748 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:42:19,795 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:42:19,894 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:42:19,895 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:42:21,058 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:42:23,999 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:42:24,031 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:42:24,031 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:42:28,729 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:42:35,600 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:42:36,747 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:42:36,747 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:42:36,750 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:42:36,751 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:42:36,751 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:42:36,751 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:42:36,751 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:42:36,751 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:44:25,807 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:44:26,890 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:44:26,991 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:44:26,992 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:44:28,157 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:44:30,958 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:44:30,994 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:44:30,994 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:44:35,688 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:44:42,510 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:44:43,332 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:44:43,332 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:44:43,334 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:44:43,334 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:44:43,334 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:44:43,334 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:44:43,334 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:44:43,335 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 11:57:07,589 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 11:57:08,587 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 11:57:08,705 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:57:08,707 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 11:57:10,418 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:57:13,290 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 11:57:13,319 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 11:57:13,319 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 11:57:18,024 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:57:54,646 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 11:57:55,501 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 11:57:55,501 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 11:57:55,503 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 11:57:55,503 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 11:57:55,503 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 11:57:55,503 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 11:57:55,503 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 11:57:55,503 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 12:07:24,230 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 12:07:25,280 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 12:07:25,410 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 12:07:25,412 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 12:07:26,166 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 12:07:29,030 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 12:07:29,059 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 12:07:29,059 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 12:07:33,735 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 12:08:12,236 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 12:08:13,202 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 12:08:13,202 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 12:08:13,204 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 12:08:13,204 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 12:08:13,204 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 12:08:13,204 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 12:08:13,204 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 12:08:13,204 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 13:41:29,908 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 13:41:30,893 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 13:41:31,005 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 13:41:31,007 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 13:41:32,246 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 13:41:35,117 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 13:41:35,157 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 13:41:35,157 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 13:41:39,858 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 13:42:09,897 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 13:42:10,851 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 13:42:10,851 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 13:42:10,853 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 13:42:10,853 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 13:42:10,853 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 13:42:10,853 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 13:42:10,853 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 13:42:10,853 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 14:00:34,671 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:00:35,646 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:00:35,732 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:00:35,734 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:00:36,904 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:00:39,645 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:00:39,675 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:00:39,675 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:00:44,112 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:01:14,163 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 14:01:15,072 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:01:15,072 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 14:01:15,074 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 14:01:15,074 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 14:01:15,074 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 14:01:15,074 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 14:01:15,074 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 14:01:15,074 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 14:14:43,069 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:14:44,096 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:14:44,184 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:14:44,185 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:14:45,357 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:14:48,099 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:14:48,127 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:14:48,127 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:14:52,581 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:14:59,903 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 14:15:00,638 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 14:15:01,449 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:15:01,449 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 14:15:01,451 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 14:15:01,451 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 14:15:01,452 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 14:15:01,452 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 14:15:01,452 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 14:15:01,452 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 14:15:53,077 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:15:54,024 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:15:54,113 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:15:54,114 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:15:55,291 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:15:58,021 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:15:58,050 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:15:58,050 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:16:02,488 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:16:32,527 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 14:16:33,432 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:16:33,432 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 14:16:33,434 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 14:16:33,434 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 14:16:33,434 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 14:16:33,434 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 14:16:33,434 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 14:16:33,434 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 14:22:21,773 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:22:22,704 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:22:22,793 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:22:22,795 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:22:23,965 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:22:26,672 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:22:26,698 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:22:26,698 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:22:28,174 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:22:58,221 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 14:22:58,984 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:22:58,984 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 14:22:58,985 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 14:22:58,985 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 14:22:58,985 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 14:22:58,985 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 14:22:58,986 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 14:22:58,986 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 14:24:29,197 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:24:30,112 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:24:30,208 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:24:30,209 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:24:31,390 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:24:34,130 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:24:34,158 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:24:34,158 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:24:38,608 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:24:46,850 INFO  com.IZZI.User.HappyCase - Check time login success
+2021-01-28 14:24:47,554 INFO  com.IZZI.User.HappyCase - Check time load page
+2021-01-28 14:24:48,304 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:24:48,304 INFO  com.IZZI.User.HappyCase - Check navigate to recoveryPassword
+2021-01-28 14:24:48,306 INFO  com.IZZI.User.HappyCase - Check navigate to Change Password
+2021-01-28 14:24:48,306 INFO  com.IZZI.User.HappyCase - Check title page
+2021-01-28 14:24:48,306 INFO  com.IZZI.User.HappyCase - Input info
+2021-01-28 14:24:48,306 INFO  com.IZZI.User.HappyCase - Check navigate to login
+2021-01-28 14:24:48,306 INFO  com.IZZI.User.HappyCase - Input password old to textbox
+2021-01-28 14:24:48,306 INFO  com.IZZI.User.HappyCase - Input new password to textbox
+2021-01-28 14:27:27,455 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:28:07,499 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:28:08,496 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:28:08,583 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:28:08,584 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:28:09,774 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:28:12,522 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:28:12,548 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:28:12,549 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:28:17,021 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:29:16,052 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:29:17,108 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:29:17,196 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:29:17,197 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:29:18,395 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:29:21,178 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:29:21,209 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:29:21,209 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:29:25,699 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:40:29,103 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:40:30,245 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:40:30,341 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:40:30,343 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:40:31,524 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:40:34,400 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:40:34,430 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:40:34,430 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:40:39,167 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:40:47,021 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 14:40:47,031 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:29,780 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 14:54:30,887 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 14:54:30,990 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:54:30,991 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 14:54:31,679 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:54:34,613 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 14:54:34,642 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:54:34,642 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 14:54:39,354 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 14:54:55,590 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 14:54:55,599 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:54:55,817 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:54:57,006 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 14:54:57,038 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:54:57,038 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 14:54:57,088 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,132 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,173 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,210 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,254 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,272 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,644 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 14:54:57,644 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 14:54:57,661 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,675 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,690 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 14:54:57,690 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 15:00:02,756 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 15:00:03,819 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 15:00:03,933 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:00:03,934 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 15:00:05,113 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:00:07,988 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 15:00:08,014 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:00:08,014 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 15:00:12,712 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 15:00:29,788 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 15:00:29,799 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:00:30,017 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:00:31,223 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 15:00:31,256 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:00:31,256 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 15:00:31,335 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:31,409 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:31,484 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:31,557 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:31,631 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:31,649 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:31,998 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:00:31,998 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 15:00:32,012 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:32,027 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:32,041 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:00:32,041 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 15:08:02,051 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 15:08:02,996 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 15:08:03,085 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:08:03,086 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 15:08:04,297 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:08:07,113 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 15:08:07,142 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:08:07,142 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 15:08:11,893 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 15:08:27,075 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 15:08:27,084 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:08:27,265 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:08:28,444 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 15:08:28,475 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:08:28,475 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 15:08:28,550 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:08:28,631 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:08:28,703 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:08:28,775 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:08:28,848 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:08:28,867 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:08:29,209 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:03,509 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 15:12:04,563 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 15:12:04,653 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:04,655 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 15:12:05,827 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:08,735 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 15:12:08,762 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:08,762 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 15:12:13,417 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 15:12:33,693 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 15:12:33,702 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:33,910 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:35,080 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 15:12:35,108 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:35,109 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 15:12:35,181 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:35,249 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:35,319 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:35,386 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:35,452 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:12:35,470 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:12:35,811 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:32,759 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 15:17:33,706 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 15:17:33,790 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:33,793 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 15:17:34,991 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:37,786 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 15:17:37,818 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:37,818 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 15:17:42,490 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 15:17:58,468 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 15:17:58,480 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:58,673 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:59,841 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 15:17:59,873 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:59,874 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 15:17:59,911 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:59,955 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:17:59,992 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:18:00,029 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:18:00,067 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:18:00,086 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:18:00,435 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:18:00,435 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 15:18:00,450 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:18:00,465 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:18:00,479 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:18:00,479 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 15:26:01,486 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 15:26:02,477 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 15:26:02,573 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:26:02,574 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 15:26:03,771 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:26:06,671 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 15:26:06,709 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:26:06,709 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 15:26:11,506 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 15:27:19,676 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 15:27:20,750 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 15:27:20,845 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:20,847 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 15:27:22,012 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:24,942 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 15:27:24,974 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:24,974 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 15:27:29,708 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 15:27:45,830 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 15:27:45,838 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:46,024 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,233 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 15:27:47,263 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,263 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 15:27:47,300 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,334 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,369 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,402 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,437 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,454 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 15:27:47,800 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,800 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 15:27:47,816 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,831 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,845 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 15:27:47,845 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 15:27:53,312 INFO  com.IZZI.User.HappyCase - Check save profile success
+2021-01-28 17:25:20,342 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 17:25:21,313 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 17:25:21,412 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:21,413 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 17:25:22,587 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:25,330 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 17:25:25,359 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:25,359 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 17:25:29,813 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 17:25:44,735 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 17:25:44,742 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:44,941 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,076 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 17:25:46,107 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,108 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 17:25:46,144 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,175 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,206 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,242 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,278 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,294 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 17:25:46,603 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,603 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 17:25:46,616 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,629 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,642 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:25:46,642 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 17:25:51,817 INFO  com.IZZI.User.HappyCase - Check save profile success
+2021-01-28 17:40:36,224 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 17:40:37,323 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 17:40:37,441 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:40:37,442 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 17:40:38,159 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:40:40,960 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 17:40:40,987 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:40:40,987 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 17:40:45,451 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 17:41:07,019 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 17:41:07,026 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:09,602 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:10,742 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 17:41:10,769 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:10,769 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 17:41:10,805 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:10,840 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:10,875 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:10,910 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:10,944 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:10,960 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 17:41:11,264 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:11,264 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 17:41:11,277 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:11,293 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:11,306 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:41:11,306 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 17:41:16,526 INFO  com.IZZI.User.HappyCase - Check save profile success
+2021-01-28 17:41:35,536 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:32,361 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 17:48:33,363 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 17:48:33,451 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:33,452 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 17:48:34,648 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:37,378 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 17:48:37,407 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:37,407 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 17:48:41,872 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 17:48:55,669 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 17:48:55,674 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:55,826 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:56,983 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 17:48:57,013 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,013 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 17:48:57,050 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,086 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,124 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,161 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,197 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,215 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 17:48:57,527 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,527 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 17:48:57,541 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,556 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,570 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 17:48:57,570 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 17:49:02,808 INFO  com.IZZI.User.HappyCase - Check save profile success
+2021-01-28 18:26:14,075 INFO  com.IZZI.User.HappyCase - Check time load login page
+2021-01-28 18:26:15,027 INFO  com.IZZI.User.HappyCase - check navigate to login page
+2021-01-28 18:26:15,114 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:15,117 INFO  com.IZZI.User.HappyCase - Check chatbox lay is displayed
+2021-01-28 18:26:15,878 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:18,686 INFO  com.IZZI.User.HappyCase - check navigate to register page
+2021-01-28 18:26:18,717 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:18,717 INFO  com.IZZI.User.HappyCase - Input data to textbox
+2021-01-28 18:26:23,390 INFO  com.IZZI.User.HappyCase - Check navigate to login page
+2021-01-28 18:26:37,598 INFO  com.IZZI.User.HappyCase - Check navigate to profile page
+2021-01-28 18:26:37,605 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:37,967 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,108 INFO  com.IZZI.User.HappyCase - Check navigate to profile edit
+2021-01-28 18:26:39,143 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,143 INFO  com.IZZI.User.HappyCase - Check info is displayed
+2021-01-28 18:26:39,177 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,213 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,242 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,274 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,307 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,323 INFO  com.IZZI.User.HappyCase -  -------------------------- FAILED -------------------------- 
+2021-01-28 18:26:39,624 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,624 INFO  com.IZZI.User.HappyCase - Check textbox is disable
+2021-01-28 18:26:39,635 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,649 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,661 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
+2021-01-28 18:26:39,662 INFO  com.IZZI.User.HappyCase - edit info profile
+2021-01-28 18:26:44,846 INFO  com.IZZI.User.HappyCase - Check save profile success
+2021-01-28 18:26:49,887 INFO  com.IZZI.User.HappyCase -  -------------------------- PASSED -------------------------- 
