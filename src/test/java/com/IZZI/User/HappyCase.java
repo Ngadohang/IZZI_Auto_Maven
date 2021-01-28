@@ -226,25 +226,6 @@ public class HappyCase extends AbstractTest {
 		return "0912" + phoneFmt.format(rand.nextInt(999999));
 	}
 	
-	public static String getPhoneNumber() // returns the phone number formatted as a sequence of digits
-    {
-
-        String regex = "^(?:(?:Tel|Phone Number|Phone): )?(\\+?\\(?\\d{3}\\)?[-. ]\\d{3}[-. ]\\d{4})$";
-        Pattern pattern = Pattern.compile(regex);
-        String phoneNumber="";
-        String line="XXXXXXXXXX";
-        for (int i = 0; i < line.length(); i++) 
-        {
-              //if phone number format includes -, . , spaces, + sign in front
-              if (line.matches("[+]?\\d?[- .]?(\\([0-9]\\d{2}\\)|[0-9]\\d{2})[- .]?\\d{3}[- .]?\\d{4}$")) {
-                phoneNumber = line.replaceAll("[^\\d.]", "").replace("-", "").replace(".", "").replace(" ", "").replace("(", "").replace(")", "")
-                        .replace("+", "");
-
-              }
-        }
-        //System.out.println(phoneNumber);
-        return phoneNumber;
-    }
 
 	LoginPageObject loginPage;
 	RegisterPageObject registerPage;
